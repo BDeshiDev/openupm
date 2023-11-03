@@ -13,7 +13,7 @@ topics:
 hunter: BDeshiDev
 gitTagPrefix: ''
 gitTagIgnore: ''
-minVersion: ''
+minVersion: 'v1.1.1'
 image: ''
 readme: 'upm:README.md'
 readme_zhCN: ''
